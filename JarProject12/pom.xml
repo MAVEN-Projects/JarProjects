@@ -4,7 +4,7 @@
 	<groupId>com.maven.plugin.JarProject</groupId>
 	<artifactId>JarProject12</artifactId>
 	<packaging>jar</packaging>
-	<version>5.0.2.1-SNAPSHOT</version>
+	<version>5.0.1-SNAPSHOT</version>
 	<name>${project.artifactId}</name>
 	<url>http://maven.apache.org</url>
 
